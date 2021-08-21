@@ -485,11 +485,11 @@ margin-bottom: 20px;
   margin-left: auto;
 }
 
-.email-label{
+.mailing__label{
   display: block;
 }
 
-.email-input{
+.mailing__input{
   
   background-color: transparent;
   width: 358px;
@@ -508,12 +508,12 @@ line-height: 1.25;
 letter-spacing: 0.03em;
 }
 
-.email-button{
+.mailing__button{
   display: inline-flex;
   align-items: center;
 }
 
-.icon-send{
+.mailing__icon{
   margin-left: 10px;
 }
 
